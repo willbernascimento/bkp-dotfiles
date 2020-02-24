@@ -1,4 +1,4 @@
-# Backup your dot files and dir for Emacs, Vim e ZSH installation
+# Backup your dot files and directories for Emacs, Vim e ZSH installation
 
 This is a simple script for dot files and directories backups. This script sync files and directories for Emacs, Vim, (oH My)Zsh with a dotfile-bkp directory in your home dir.
 
